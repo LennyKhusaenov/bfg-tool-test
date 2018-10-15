@@ -2,3 +2,6 @@
 \.idea/
 
 testbfgtool\.iml
+
+
+target/*
